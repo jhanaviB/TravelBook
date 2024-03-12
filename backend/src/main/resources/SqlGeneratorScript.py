@@ -6,7 +6,7 @@ from tabulate import tabulate
 import datetime
 
 # OpenAI API Key
-openai.api_key = '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'
+openai.api_key = '#removedgithubsecurity'
 
 def parse_sql_files(database_dir):
     # Check if the directory exists
