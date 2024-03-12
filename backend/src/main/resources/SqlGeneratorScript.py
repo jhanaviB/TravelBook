@@ -8,7 +8,7 @@ import datetime
 # OpenAI API Key
 openai.api_key = '#removedgithubsecurity'
 
-def parse_sql_files(database_dir):
+def parse_sql_files(database_dir):   
     # Check if the directory exists
     if os.path.exists(database_dir):
         # List all SQL files in the database folder
